@@ -24,7 +24,7 @@ chmod +x STAR
 ```bash
 #If you want to check the option !
 
-./STAR --help
+STAR --help
 
 #basic protocol - 1) generating genome indices
 

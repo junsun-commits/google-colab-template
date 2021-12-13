@@ -1,8 +1,7 @@
-# google-colab-template
+# Prokka
 
-Please check [`template.ipynb`](template.ipynb).
+Prokka is a command line software for prokaryotic genome annotation
 
-## Current branches
-- deseq2
-- kraken2
--
+The background and usage of prokka is introduced in the presentation slide and colab notebook.
+
+*-Sohyoung Won*

@@ -1,7 +1,8 @@
-# Colab notebooks from Advanced Bioinformatics1
+# ARES
 
-Please check [`template.ipynb`](template.ipynb).
+ARES is a Neural Network for assessing the accuracy of candidate RNA structure .
 
+<<<<<<< Updated upstream
 ## Current branches
 - deseq2
 - kraken2
@@ -18,3 +19,12 @@ Please check [`template.ipynb`](template.ipynb).
 - fasttree
 - spades
 - star
+=======
+## Installation
+
+Follow the ipynb file.
+
+## Usage
+
+Follow the ipynb file.
+>>>>>>> Stashed changes

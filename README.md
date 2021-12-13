@@ -18,3 +18,6 @@ Please check [`template.ipynb`](template.ipynb).
 - fasttree
 - spades
 - star
+- ares
+- alphafold2
+- dnabert
